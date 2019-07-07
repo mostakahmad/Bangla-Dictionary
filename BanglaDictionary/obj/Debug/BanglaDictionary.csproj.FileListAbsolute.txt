@@ -1,0 +1,23 @@
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\BanglaDictionary\BanglaDictionary\bin\Debug\BanglaDictionary.exe.config
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\BanglaDictionary\BanglaDictionary\bin\Debug\BanglaDictionary.exe
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\BanglaDictionary\BanglaDictionary\bin\Debug\BanglaDictionary.pdb
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\BanglaDictionary\BanglaDictionary\obj\Debug\BanglaDictionary.csprojResolveAssemblyReference.cache
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\BanglaDictionary\BanglaDictionary\obj\Debug\BanglaDictionary.Form1.resources
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\BanglaDictionary\BanglaDictionary\obj\Debug\BanglaDictionary.Properties.Resources.resources
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\BanglaDictionary\BanglaDictionary\obj\Debug\BanglaDictionary.csproj.GenerateResource.Cache
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\BanglaDictionary\BanglaDictionary\obj\Debug\BanglaDictionary.exe
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\BanglaDictionary\BanglaDictionary\obj\Debug\BanglaDictionary.pdb
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\BanglaDictionary\BanglaDictionary\obj\Debug\BanglaDictionary.Form2.resources
+C:\Users\Mostak\Desktop\BanglaDictionary\BanglaDictionary\bin\Debug\BanglaDictionary.exe.config
+C:\Users\Mostak\Desktop\BanglaDictionary\BanglaDictionary\obj\Debug\BanglaDictionary.exe
+C:\Users\Mostak\Desktop\BanglaDictionary\BanglaDictionary\obj\Debug\BanglaDictionary.pdb
+C:\Users\Mostak\Desktop\BanglaDictionary\BanglaDictionary\bin\Debug\BanglaDictionary.exe
+C:\Users\Mostak\Desktop\BanglaDictionary\BanglaDictionary\bin\Debug\BanglaDictionary.pdb
+C:\Users\Mostak\Desktop\BanglaDictionary\BanglaDictionary\obj\Debug\BanglaDictionary.csprojResolveAssemblyReference.cache
+C:\Users\Mostak\Desktop\BanglaDictionary\BanglaDictionary\obj\Debug\BanglaDictionary.Form1.resources
+C:\Users\Mostak\Desktop\BanglaDictionary\BanglaDictionary\obj\Debug\BanglaDictionary.Form2.resources
+C:\Users\Mostak\Desktop\BanglaDictionary\BanglaDictionary\obj\Debug\BanglaDictionary.Properties.Resources.resources
+C:\Users\Mostak\Desktop\BanglaDictionary\BanglaDictionary\obj\Debug\BanglaDictionary.csproj.GenerateResource.Cache
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\1. Project By Me\BanglaDictionary\BanglaDictionary\bin\Debug\BanglaDictionary.exe.config
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\1. Project By Me\BanglaDictionary\BanglaDictionary\obj\Debug\BanglaDictionary.exe
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\1. Project By Me\BanglaDictionary\BanglaDictionary\obj\Debug\BanglaDictionary.pdb
